@@ -8,6 +8,7 @@ public class HumanFearureApplication {
 
     int x = 39;
     int y = 44;
+	char z = 'c';
 
 
 	public static void main(String[] args) {
