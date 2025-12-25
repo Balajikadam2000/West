@@ -6,7 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class HumanFearureApplication {
 
-    int x = 39;
+    String s1 = "Bala";
+	Bollean b = true;
     int y = 44;
 	char z = 'c';
 
